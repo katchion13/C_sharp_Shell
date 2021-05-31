@@ -1,0 +1,12 @@
+C:\Users\Tarde\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Tarde\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Tarde\Documents\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Tarde\Documents\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Tarde\Documents\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Tarde\Documents\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Tarde\Documents\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\!!!Programação!!!\2º Módulo\C#\Form\temperaturaC\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\temperaturaC\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

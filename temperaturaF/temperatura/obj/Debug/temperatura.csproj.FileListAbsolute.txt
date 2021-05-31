@@ -1,0 +1,13 @@
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\bin\Debug\temperatura.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\bin\Debug\temperatura.pdb
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\obj\Debug\temperatura.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\obj\Debug\temperatura.pdb
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\obj\Debug\temperatura.exe
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\obj\Debug\temperatura.pdb
+C:\Users\Tarde\Documents\C#\temperaturaF\temperatura\obj\Debug\temperatura.exe
+C:\Users\Tarde\Documents\C#\temperaturaF\temperatura\obj\Debug\temperatura.pdb
+J:\2º Módulo\C#\temperaturaF\temperatura\obj\Debug\temperatura.exe
+J:\2º Módulo\C#\temperaturaF\temperatura\obj\Debug\temperatura.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\temperaturaF\temperatura\obj\Debug\temperatura.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\temperaturaF\temperatura\obj\Debug\temperatura.pdb

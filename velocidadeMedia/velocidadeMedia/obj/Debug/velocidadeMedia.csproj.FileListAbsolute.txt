@@ -1,0 +1,14 @@
+C:\Users\Tarde\AppData\Local\Temporary Projects\velocidadeMedia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\velocidadeMedia\bin\Debug\velocidadeMedia.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\velocidadeMedia\bin\Debug\velocidadeMedia.pdb
+C:\Users\Tarde\AppData\Local\Temporary Projects\velocidadeMedia\obj\Debug\velocidadeMedia.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\velocidadeMedia\obj\Debug\velocidadeMedia.pdb
+C:\Users\Tarde\Documents\Estrutura (C#)\velocidadeMedia\velocidadeMedia\obj\Debug\velocidadeMedia.exe
+C:\Users\Tarde\Documents\Estrutura (C#)\velocidadeMedia\velocidadeMedia\obj\Debug\velocidadeMedia.pdb
+C:\Users\Tarde\Documents\C#\velocidadeMedia\velocidadeMedia\obj\Debug\velocidadeMedia.exe
+C:\Users\Tarde\Documents\C#\velocidadeMedia\velocidadeMedia\obj\Debug\velocidadeMedia.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\velocidadeMedia\velocidadeMedia\obj\Debug\velocidadeMedia.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\velocidadeMedia\velocidadeMedia\obj\Debug\velocidadeMedia.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\velocidadeMedia\velocidadeMedia\bin\Debug\velocidadeMedia.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\velocidadeMedia\velocidadeMedia\bin\Debug\velocidadeMedia.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\velocidadeMedia\velocidadeMedia\obj\Debug\ResolveAssemblyReference.cache
